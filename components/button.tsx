@@ -45,7 +45,7 @@ const Button = ({
       }}
       style={mainProps}
       className={`${className} uppercase aspect-square text-neutral-300 relative bg-neutral-900 h-14 px-16
-       w-auto`}
+      `}
     >
       <animated.div
         style={props}
